@@ -1,0 +1,2 @@
+# oracleRPL
+Oracle Responsys Documentation
